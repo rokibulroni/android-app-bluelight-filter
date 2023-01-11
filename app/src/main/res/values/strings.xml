@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">NightShift</string>
+    <string name="mo">Open</string>
+    <string name="dong">Close</string>
+    <string name="title_toolbar" translatable="false">Night Mode</string>
+
+    <string name="temperature">Color temperature</string>
+    <string name="intensity">Intensity</string>
+    <string name="brightness">Screen Brightness</string>
+    <string name="automatic_time">Automatic timer setting</string>
+    <string name="notification_bar">Notification bar</string>
+    <string name="status_on">Turn on</string>
+    <string name="status_off">Turn off</string>
+
+
+    <!--ads-->
+    <string name="ads_banner" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="mobile_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ads_full" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <string name="tip_sorry">Sorry for any inconvenience.</string>
+    <string name="tip_splash">24-Hour Eye Protection</string>
+    <string name="tip_turning_off">Turning off Night Mode</string>
+    <string name="tip_turning_on">Turning on Night Mode</string>
+    <string name="tip_under_night_mode">Night Mode On</string>
+    <string name="tip_xiaomi_permission">Ensure Night Mode works normally on Xiaomi devices.</string>
+    <string name="toast_device_not_support_flashlight">Your device does not support flash light</string>
+    <string name="trouble_shooting">Troubleshooting</string>
+    <string name="turn_off">Turn Off</string>
+    <string name="turn_on">Turn On</string>
+    <string name="write_sth">Write something</string>
+    <string name="xiaomi_setting_title">Xiaomi Settings</string>
+    <string name="help0_text">Color temperature over 3500K is no good to your sleep</string>
+    <string name="help1_content_1">The color temperature of blue light is high (over 5000k), and it will keep people sober.</string>
+    <string name="help1_content_2">Blue light is very short and visible wavelength between 380–550nm.</string>
+    <string name="help1_title">What is Blue Light</string>
+    <string name="help2_content_1">Blue light will influence your circadian rhythms by inhibiting melatonin. Blue light has been scientifically proven to do harm to your eyes.</string>
+    <string name="help2_content_2">It poses a serious threat to your retinal neurons.</string>
+    <string name="help2_title">Harms of Blue Light</string>
+    <string name="help3_content">● Before installing other apps, please turn off or pause this app to enable installation.\10\10● When taking screenshots, please turn off or pause this app in case screenshots use the app\'s effects.\10\10Sorry for any inconvenience.</string>
+    <string name="help3_title">Tips</string>
+    <string name="help3_title_new">Why \'Camera Permission\' required</string>
+
+    <string name="color1">Candlelight</string>
+    <string name="color2">Dawn</string>
+    <string name="color3">Incandescent Lamp</string>
+    <string name="color4">Fluorescent Lamp</string>
+    <string name="color5">Sunlight</string>
+    <string name="stop">Stop</string>
+    <string name="how">How it works ?</string>
+    <string name="share">Share</string>
+    <string name="no_flat">There is no right to turn on the flash</string>
+    <string name="no_permistion">No permistion</string>
+    <string name="sugesstion">A color temperature below 3500K can help sleep effectively</string>
+    <string name="candle_light">Candle light</string>
+    <string name="dawn">Dawning</string>
+    <string name="bulbs">Incandescent bulbs</string>
+    <string name="fluorescent">Fluorescent light bulbs</string>
+    <string name="sunlight">Sunlight</string>
+    <string name="advice">Advice</string>
+    <string name="advice_description">It is recommended to use the application in the evening to protect your eyes and rest. We recommend turning on the notification bar for easier control</string>
+
+</resources>

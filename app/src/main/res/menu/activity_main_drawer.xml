@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_on_off"
+        android:icon="@drawable/ic_visibility_black_24dp"
+        android:title="@string/status_off" />
+    <item
+        android:id="@+id/nav_stop"
+        android:icon="@drawable/ic_cancel_black_24dp"
+        android:title="@string/stop" />
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/how" />
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="@string/share" />
+</menu>

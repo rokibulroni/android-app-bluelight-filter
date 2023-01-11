@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NightShift</string>
+    <string name="mo">Mở</string>
+    <string name="notification_bar">Thanh Thông Báo</string>
+    <string name="status_on">Bật</string>
+    <string name="status_off">Tắt</string>
+    <string name="intensity">Cường độ</string>
+    <string name="dong">Đóng</string>
+    <string name="brightness">Độ sáng màn hình</string>
+    <string name="automatic_time">Cài đặt bộ hẹn giờ tự động</string>
+    <string name="bulbs">Đèn sợi đốt</string>
+    <string name="candle_light">Anh sáng nến</string>
+    <string name="dawn">Bình minh</string>
+    <string name="fluorescent">Đèn huỳnh quang</string>
+    <string name="how">Hoạt động thế nào</string>
+    <string name="no_flat">Không có quyền mở đèn flash</string>
+    <string name="no_permistion">Không có quyền</string>
+    <string name="share">Chia sẻ</string>
+    <string name="stop">Dừng lại</string>
+    <string name="sugesstion">Nhiệt độ màu dưới 3500K có thể giúp ngủ hiệu quả</string>
+    <string name="sunlight">Anh sáng mặt trời</string>
+    <string name="temperature" translatable="false">Nhiệt độ màu</string>
+    <string name="advice_description">Nên sử dụng ứng dụng vào buổi tối giúp mắt bạn đucợ bảo vệ và nghỉ ngơi. Chúng tôi khuyên bạn nên bật thanh thông báo để dễ dàng điều khiển hơn</string>
+    <string name="advice">Lời khuyên</string>
+</resources>

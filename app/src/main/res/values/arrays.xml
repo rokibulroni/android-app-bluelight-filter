@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="filter_color">
+        <item>Candlelight</item>
+        <item>Dawn</item>
+        <item>Incandescent Lamp</item>
+        <item>Fluorescent Lamp</item>
+        <item>Sunlight</item>
+        <item>Night Shift</item>
+        <item>Eclipse</item>
+        <item>Forest</item>
+    </array>
+</resources>
